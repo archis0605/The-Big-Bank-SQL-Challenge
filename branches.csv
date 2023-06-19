@@ -1,0 +1,16 @@
+BranchID,BranchName,City,State
+1,Main,"New York",NY
+2,Downtown,"San Francisco",CA
+3,"West LA","Los Angeles",CA
+4,"East LA","Los Angeles",CA
+5,Uptown,"New York",NY
+6,"Financial District","San Francisco",CA
+7,Midtown,"New York",NY
+8,"South Bay","San Francisco",CA
+9,Downtown,"Los Angeles",CA
+10,Chinatown,"New York",NY
+11,Marina,"San Francisco",CA
+12,"Beverly Hills","Los Angeles",CA
+13,Brooklyn,"New York",NY
+14,"North Beach","San Francisco",CA
+15,Pasadena,"Los Angeles",CA

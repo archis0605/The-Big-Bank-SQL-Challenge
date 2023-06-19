@@ -1,0 +1,7 @@
+CustomerID,FirstName,LastName,City,State
+1,John,Doe,"New York",NY
+2,Jane,Doe,"New York",NY
+3,Bob,Smith,"San Francisco",CA
+4,Alice,Johnson,"San Francisco",CA
+5,Michael,Lee,"Los Angeles",CA
+6,Jennifer,Wang,"Los Angeles",CA
